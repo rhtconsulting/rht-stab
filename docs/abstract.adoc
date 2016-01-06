@@ -1,0 +1,69 @@
+= {subject}: PREPARED FOR - {customer}
+:subject: Summit Abstract
+:description: Enterprise Alerting with Red Hat JBoss Fuse and OpenShift 3
+:doctype: book
+:confidentiality: Confidential
+:customer:  Red Hat Summit
+:listing-caption: Listing
+:toc:
+:toclevels: 6A
+:sectnums:
+:chapter-label:
+:icons: font
+ifdef::backend-pdf[]
+:pdf-page-size: A4
+:title-page-background-image: image:./images/header.jpeg[pdfwidth=8.0in,align=center]
+:pygments-style: tango
+:source-highlighter: coderay
+endif::[]
+
+= General Information
+
+<Insert some descriptive text here>
+
+[cols="2*"",options=header]
+|===
+|Col Name
+|Col Name
+
+|Session Title
+|Enterprise Alerting with Red Hat JBoss Fuse & OpenShift V3
+
+|Type
+|Slide Presentation
+
+|Proposed Track
+|Application and Platform Infrastructure
+
+|Topic(s)
+|Application Development & Integration, PaaS
+
+|Theme(s)
+|Cloud, BPM and Integration
+
+|Solution(s)
+|Middleware
+
+|Product(s)
+|Fuse, BPMS & OSE v3
+
+|Service(s)
+|Consulting
+
+|Target Audiences
+|Architect, Developer, IT Executive, IT Manager
+
+|Benefit(s)
+|Timeness, Flexibility, Interoperability, Performance, Portability, Reliability, Scalability, Simplicity
+
+|Key Audience Takeaway
+|Fill in the blanks
+
+|Proposed Speaker(s)
+|Bryan Saunders (Presenter),Toufic Arabi (Co-Presenter)
+
+|===
+
+= Session Abstract
+
+<drop some knowledge here>
