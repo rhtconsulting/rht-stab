@@ -1,9 +1,10 @@
-= {subject}: PREPARED FOR - {customer}
-:subject: Summit Abstract
+= {subject}
+:subject: Enterprise Alerting with Red Hat JBoss Fuse and OpenShift 3
 :description: Enterprise Alerting with Red Hat JBoss Fuse and OpenShift 3
 :doctype: book
+:author: Toufic Arabi & Bryan Saunders
 :confidentiality: Confidential
-:customer:  Red Hat Summit
+:customer:  Red Hat
 :listing-caption: Listing
 :toc:
 :toclevels: 6A
@@ -19,7 +20,8 @@ endif::[]
 
 = General Information
 
-<Insert some descriptive text here>
+The following table shows a high level summary of the objectives of this Red Hat Summit presentation.
+
 
 [cols="2*"",options=header]
 |===
@@ -63,6 +65,8 @@ endif::[]
 |Bryan Saunders (Presenter),Toufic Arabi (Co-Presenter)
 
 |===
+
+<<<
 
 = Session Abstract
 
