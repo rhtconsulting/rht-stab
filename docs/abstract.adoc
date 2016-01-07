@@ -59,7 +59,7 @@ The following table shows a high level summary of the objectives of this Red Hat
 |Timeness, Flexibility, Interoperability, Performance, Portability, Reliability, Scalability, Simplicity
 
 |Key Audience Takeaway
-|Fill in the blanks
+|Best Practices for Integrating BPMS and Fuse on OSEv3
 
 |Proposed Speaker(s)
 |Bryan Saunders (Presenter),Toufic Arabi (Co-Presenter)
